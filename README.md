@@ -1,1 +1,1 @@
-## Thos is my python application
+## This is my python application
